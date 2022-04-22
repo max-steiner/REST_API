@@ -1,0 +1,2146 @@
+2022-03-19 15:07:41,158:db_repo:16936:40280:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 15:07:41,163:db_repo:16936:40280:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 15:07:41,168:db_repo:16936:40280:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 15:07:41,168:db_repo:16936:40280:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 15:07:41,168:refresh_db:16936:40280:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 15:08:51,847:db_repo:49212:8780:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 15:08:51,850:db_repo:49212:8780:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 15:08:51,854:db_repo:49212:8780:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 15:08:51,857:db_repo:49212:8780:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 15:08:51,858:refresh_db:49212:8780:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 15:08:51,896:db_repo:49212:8780:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 15:08:51,900:db_repo:49212:8780:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 15:08:51,904:db_repo:49212:8780:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 15:08:51,907:db_repo:49212:8780:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 15:08:51,908:refresh_db:49212:8780:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 15:09:08,003:db_repo:17616:39668:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 15:09:08,003:db_repo:17616:39668:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 15:09:08,013:db_repo:17616:39668:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 15:09:08,016:db_repo:17616:39668:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 15:09:08,016:refresh_db:17616:39668:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 15:09:08,123:db_repo:17616:39668:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 15:09:08,123:db_repo:17616:39668:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 15:09:08,133:db_repo:17616:39668:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 15:09:08,133:db_repo:17616:39668:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 15:09:08,133:refresh_db:17616:39668:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 15:15:09,923:db_repo:43596:54028:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 15:15:09,933:db_repo:43596:54028:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 15:15:09,933:db_repo:43596:54028:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 15:15:09,943:db_repo:43596:54028:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 15:15:09,943:refresh_db:43596:54028:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 16:19:52,029:db_repo:42852:46728:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 16:19:52,034:db_repo:42852:46728:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 16:19:52,041:db_repo:42852:46728:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 16:19:52,041:db_repo:42852:46728:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 16:19:52,041:refresh_db:42852:46728:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 19:35:29,680:db_repo:51760:55372:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 19:35:29,685:db_repo:51760:55372:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 19:35:29,685:db_repo:51760:55372:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 19:35:29,695:db_repo:51760:55372:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 19:35:29,695:refresh_db:51760:55372:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 19:48:17,347:db_repo:39120:57620:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 19:48:17,347:db_repo:39120:57620:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 19:48:17,347:db_repo:39120:57620:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 19:48:17,357:db_repo:39120:57620:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 19:48:17,357:refresh_db:39120:57620:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 19:48:53,198:db_repo:46484:15576:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 19:48:53,202:db_repo:46484:15576:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 19:48:53,206:db_repo:46484:15576:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 19:48:53,210:db_repo:46484:15576:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 19:48:53,211:refresh_db:46484:15576:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 20:47:05,511:db_repo:17892:16584:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 20:47:05,511:db_repo:17892:16584:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 20:47:05,521:db_repo:17892:16584:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 20:47:05,521:db_repo:17892:16584:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 20:47:05,521:refresh_db:17892:16584:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 20:47:17,710:main:17892:57640:INFO:A user tried to used a function that requires token but token is missing.
+2022-03-19 20:47:47,333:main:17892:2760:INFO:A user tried to used a function that requires token but token is missing.
+2022-03-19 21:11:22,106:db_repo:57860:60716:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-19 21:11:22,116:db_repo:57860:60716:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-19 21:11:22,116:db_repo:57860:60716:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-19 21:11:22,126:db_repo:57860:60716:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-19 21:11:22,126:refresh_db:57860:60716:CRITICAL:The data base  has been successfully refreshed
+2022-03-19 21:11:52,829:main:57860:55688:INFO:A user tried to used a function that requires token but token is missing.
+2022-03-20 18:38:28,580:db_repo:67348:67108:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-20 18:38:28,585:db_repo:67348:67108:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-20 18:38:28,588:db_repo:67348:67108:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-20 18:38:28,591:db_repo:67348:67108:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-20 18:38:28,592:refresh_db:67348:67108:CRITICAL:The data base  has been successfully refreshed
+2022-03-20 18:38:29,164:db_repo:67348:67108:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-20 18:38:29,168:db_repo:67348:67108:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-20 18:38:29,171:db_repo:67348:67108:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-20 18:38:29,174:db_repo:67348:67108:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-20 18:38:29,174:refresh_db:67348:67108:CRITICAL:The data base  has been successfully refreshed
+2022-03-20 18:38:46,326:main:67348:62616:INFO:Unauthorized access attempt
+2022-03-23 21:03:51,964:db_repo:67656:52308:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:03:51,968:db_repo:67656:52308:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:03:51,972:db_repo:67656:52308:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:03:51,976:db_repo:67656:52308:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:03:51,976:refresh_db:67656:52308:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:03:52,384:db_repo:67656:52308:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:03:52,388:db_repo:67656:52308:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:03:52,392:db_repo:67656:52308:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:03:52,395:db_repo:67656:52308:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:03:52,395:refresh_db:67656:52308:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:11:12,461:db_repo:60864:73748:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:11:12,467:db_repo:60864:73748:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:11:12,471:db_repo:60864:73748:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:11:12,475:db_repo:60864:73748:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:11:12,475:refresh_db:60864:73748:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:11:12,968:db_repo:60864:73748:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:11:12,986:db_repo:60864:73748:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:11:12,995:db_repo:60864:73748:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:11:13,003:db_repo:60864:73748:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:11:13,003:refresh_db:60864:73748:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:12:15,925:main:60864:61688:INFO:Unauthorized access attempt
+2022-03-23 21:18:17,600:db_repo:68712:73368:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:18:17,606:db_repo:68712:73368:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:18:17,608:db_repo:68712:73368:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:18:17,612:db_repo:68712:73368:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:18:17,612:refresh_db:68712:73368:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:18:18,108:db_repo:68712:73368:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:18:18,113:db_repo:68712:73368:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:18:18,118:db_repo:68712:73368:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:18:18,121:db_repo:68712:73368:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:18:18,122:refresh_db:68712:73368:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:18:28,844:main:68712:71852:INFO:A user tried to used a function that requires token but token is missing.
+2022-03-23 21:26:13,274:db_repo:46392:49584:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:26:13,278:db_repo:46392:49584:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:26:13,282:db_repo:46392:49584:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:26:13,286:db_repo:46392:49584:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:26:13,286:refresh_db:46392:49584:CRITICAL:The data base  has been successfully refreshed
+2022-03-23 21:26:13,701:db_repo:46392:49584:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-03-23 21:26:13,705:db_repo:46392:49584:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-03-23 21:26:13,709:db_repo:46392:49584:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-03-23 21:26:13,712:db_repo:46392:49584:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-03-23 21:26:13,712:refresh_db:46392:49584:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 10:41:53,073:db_repo:23500:113960:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 10:41:53,080:db_repo:23500:113960:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 10:41:53,086:db_repo:23500:113960:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 10:41:53,092:db_repo:23500:113960:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 10:41:53,092:refresh_db:23500:113960:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 10:41:54,554:db_repo:23500:113960:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 10:41:54,559:db_repo:23500:113960:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 10:41:54,566:db_repo:23500:113960:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 10:41:54,571:db_repo:23500:113960:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 10:41:54,571:refresh_db:23500:113960:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 10:54:28,513:rest_api:28340:141304:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 11:06:06,981:db_repo:166616:164084:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:06:06,987:db_repo:166616:164084:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:06:06,995:db_repo:166616:164084:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:06:07,000:db_repo:166616:164084:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:06:07,000:refresh_db:166616:164084:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:06:08,175:db_repo:166616:164084:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:06:08,182:db_repo:166616:164084:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:06:08,189:db_repo:166616:164084:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:06:08,195:db_repo:166616:164084:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:06:08,195:refresh_db:166616:164084:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:07:10,529:rest_api:28340:168232:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 11:07:11,637:rest_api:28340:169968:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 11:07:20,602:rest_api:28340:165032:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 11:07:33,098:db_repo:169740:168100:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:07:33,105:db_repo:169740:168100:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:07:33,113:db_repo:169740:168100:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:07:33,120:db_repo:169740:168100:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:07:33,121:refresh_db:169740:168100:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:07:34,029:db_repo:169740:168100:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:07:34,035:db_repo:169740:168100:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:07:34,043:db_repo:169740:168100:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:07:34,051:db_repo:169740:168100:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:07:34,054:refresh_db:169740:168100:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:07:46,432:db_repo:169740:163368:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 11:09:48,861:db_repo:174728:174696:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:09:48,867:db_repo:174728:174696:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:09:48,873:db_repo:174728:174696:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:09:48,880:db_repo:174728:174696:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:09:48,880:refresh_db:174728:174696:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:09:49,914:db_repo:174728:174696:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:09:49,921:db_repo:174728:174696:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:09:49,927:db_repo:174728:174696:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:09:49,934:db_repo:174728:174696:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:09:49,935:refresh_db:174728:174696:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:10:03,329:db_repo:110100:109968:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:10:03,336:db_repo:110100:109968:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:10:03,342:db_repo:110100:109968:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:10:03,348:db_repo:110100:109968:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:10:03,349:refresh_db:110100:109968:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:10:04,376:db_repo:110100:109968:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:10:04,382:db_repo:110100:109968:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:10:04,389:db_repo:110100:109968:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:10:04,395:db_repo:110100:109968:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:10:04,396:refresh_db:110100:109968:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:10:12,940:db_repo:110100:81576:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 11:58:31,589:db_repo:43216:156100:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:58:31,596:db_repo:43216:156100:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:58:31,602:db_repo:43216:156100:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:58:31,608:db_repo:43216:156100:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:58:31,608:refresh_db:43216:156100:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:58:32,426:db_repo:43216:156100:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:58:32,433:db_repo:43216:156100:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:58:32,440:db_repo:43216:156100:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:58:32,448:db_repo:43216:156100:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:58:32,449:refresh_db:43216:156100:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:59:17,647:db_repo:53508:16644:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:59:17,654:db_repo:53508:16644:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:59:17,659:db_repo:53508:16644:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:59:17,666:db_repo:53508:16644:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:59:17,666:refresh_db:53508:16644:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:59:18,670:db_repo:53508:16644:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:59:18,699:db_repo:53508:16644:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:59:18,705:db_repo:53508:16644:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:59:18,712:db_repo:53508:16644:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:59:18,712:refresh_db:53508:16644:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:59:27,521:db_repo:82528:82256:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:59:27,527:db_repo:82528:82256:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:59:27,534:db_repo:82528:82256:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:59:27,541:db_repo:82528:82256:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:59:27,541:refresh_db:82528:82256:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:59:28,226:db_repo:82528:82256:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:59:28,232:db_repo:82528:82256:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:59:28,238:db_repo:82528:82256:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:59:28,244:db_repo:82528:82256:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:59:28,244:refresh_db:82528:82256:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 11:59:59,236:db_repo:105124:104984:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 11:59:59,242:db_repo:105124:104984:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 11:59:59,248:db_repo:105124:104984:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 11:59:59,255:db_repo:105124:104984:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 11:59:59,255:refresh_db:105124:104984:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:00:00,004:db_repo:105124:104984:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:00:00,010:db_repo:105124:104984:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:00:00,016:db_repo:105124:104984:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:00:00,022:db_repo:105124:104984:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:00:00,022:refresh_db:105124:104984:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:00:15,261:main:105124:108264:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 12:00:46,202:main:105124:60068:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 12:00:46,803:main:105124:95300:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 12:00:53,948:main:105124:100660:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 12:01:09,999:db_repo:112520:113080:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:01:10,005:db_repo:112520:113080:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:01:10,009:db_repo:112520:113080:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:01:10,013:db_repo:112520:113080:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:01:10,014:refresh_db:112520:113080:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:01:10,561:db_repo:112520:113080:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:01:10,567:db_repo:112520:113080:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:01:10,573:db_repo:112520:113080:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:01:10,581:db_repo:112520:113080:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:01:10,582:refresh_db:112520:113080:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:03:36,423:db_repo:74556:75064:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:03:36,429:db_repo:74556:75064:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:03:36,435:db_repo:74556:75064:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:03:36,441:db_repo:74556:75064:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:03:36,441:refresh_db:74556:75064:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:03:37,163:db_repo:74556:75064:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:03:37,170:db_repo:74556:75064:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:03:37,176:db_repo:74556:75064:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:03:37,182:db_repo:74556:75064:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:03:37,182:refresh_db:74556:75064:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:04:28,112:db_repo:89448:49316:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:04:28,118:db_repo:89448:49316:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:04:28,125:db_repo:89448:49316:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:04:28,131:db_repo:89448:49316:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:04:28,132:refresh_db:89448:49316:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:04:28,883:db_repo:89448:49316:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:04:28,889:db_repo:89448:49316:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:04:28,896:db_repo:89448:49316:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:04:28,901:db_repo:89448:49316:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:04:28,901:refresh_db:89448:49316:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:09:38,665:db_repo:9512:76820:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:09:38,671:db_repo:9512:76820:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:09:38,677:db_repo:9512:76820:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:09:38,682:db_repo:9512:76820:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:09:38,682:refresh_db:9512:76820:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:09:39,605:db_repo:9512:76820:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:09:39,616:db_repo:9512:76820:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:09:39,625:db_repo:9512:76820:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:09:39,633:db_repo:9512:76820:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:09:39,633:refresh_db:9512:76820:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:17,259:db_repo:84900:82840:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:12:17,265:db_repo:84900:82840:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:12:17,270:db_repo:84900:82840:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:12:17,276:db_repo:84900:82840:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:12:17,277:refresh_db:84900:82840:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:18,199:db_repo:84900:82840:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:12:18,204:db_repo:84900:82840:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:12:18,210:db_repo:84900:82840:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:12:18,215:db_repo:84900:82840:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:12:18,215:refresh_db:84900:82840:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:35,699:db_repo:84288:98668:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:12:35,709:db_repo:84288:98668:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:12:35,719:db_repo:84288:98668:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:12:35,730:db_repo:84288:98668:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:12:35,731:refresh_db:84288:98668:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:37,140:db_repo:84288:98668:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:12:37,151:db_repo:84288:98668:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:12:37,161:db_repo:84288:98668:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:12:37,170:db_repo:84288:98668:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:12:37,171:refresh_db:84288:98668:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:39,721:db_repo:82972:92220:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:12:39,727:db_repo:82972:92220:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:12:39,733:db_repo:82972:92220:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:12:39,739:db_repo:82972:92220:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:12:39,739:refresh_db:82972:92220:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:40,515:db_repo:82972:92220:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:12:40,521:db_repo:82972:92220:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:12:40,527:db_repo:82972:92220:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:12:40,532:db_repo:82972:92220:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:12:40,533:refresh_db:82972:92220:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:12:55,606:db_repo:82972:100644:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 12:52:39,767:db_repo:118712:117192:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:52:39,771:db_repo:118712:117192:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:52:39,777:db_repo:118712:117192:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:52:39,782:db_repo:118712:117192:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:52:39,782:refresh_db:118712:117192:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:52:40,138:db_repo:118712:117192:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:52:40,142:db_repo:118712:117192:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:52:40,145:db_repo:118712:117192:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:52:40,150:db_repo:118712:117192:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:52:40,150:refresh_db:118712:117192:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:57:13,415:db_repo:124084:124152:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:57:13,419:db_repo:124084:124152:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:57:13,425:db_repo:124084:124152:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:57:13,430:db_repo:124084:124152:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:57:13,430:refresh_db:124084:124152:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:57:14,319:db_repo:127416:127384:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:57:14,325:db_repo:127416:127384:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:57:14,330:db_repo:127416:127384:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:57:14,336:db_repo:127416:127384:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:57:14,336:refresh_db:127416:127384:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 12:57:14,836:db_repo:127416:127384:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 12:57:14,842:db_repo:127416:127384:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 12:57:14,847:db_repo:127416:127384:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 12:57:14,851:db_repo:127416:127384:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 12:57:14,851:refresh_db:127416:127384:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 13:03:52,017:db_repo:143064:142968:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 13:03:52,022:db_repo:143064:142968:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 13:03:52,026:db_repo:143064:142968:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 13:03:52,031:db_repo:143064:142968:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 13:03:52,031:refresh_db:143064:142968:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 13:04:56,469:main:143064:145372:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 13:07:10,702:db_repo:146876:149360:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 13:07:10,706:db_repo:146876:149360:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 13:07:10,711:db_repo:146876:149360:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 13:07:10,715:db_repo:146876:149360:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 13:07:10,715:refresh_db:146876:149360:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 13:07:21,920:db_repo:146876:149600:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 13:08:57,590:db_repo:150652:152876:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 13:08:57,596:db_repo:150652:152876:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 13:08:57,601:db_repo:150652:152876:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 13:08:57,606:db_repo:150652:152876:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 13:08:57,607:refresh_db:150652:152876:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 13:16:37,793:db_repo:150652:170088:INFO:The function <<get_customers_by_id>> successfully completed. ID: 1
+2022-04-20 13:16:47,060:db_repo:150652:166716:INFO:The function <<get_customers_by_id>> successfully completed. ID: 2
+2022-04-20 13:51:27,194:db_repo:56744:158064:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 13:51:27,200:db_repo:56744:158064:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 13:51:27,206:db_repo:56744:158064:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 13:51:27,211:db_repo:56744:158064:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 13:51:27,212:refresh_db:56744:158064:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 13:51:41,360:main:56744:68396:INFO:User token is incorrect.
+2022-04-20 13:56:42,851:main:56744:27328:INFO:User token is incorrect.
+2022-04-20 13:56:57,088:main:56744:66020:INFO:User token is incorrect.
+2022-04-20 13:57:29,056:main:56744:82940:INFO:User token is incorrect.
+2022-04-20 13:58:35,147:main:56744:26984:INFO:User token is incorrect.
+2022-04-20 15:41:26,753:main:56744:143448:INFO:User token is incorrect.
+2022-04-20 15:42:29,042:main:56744:86604:INFO:Incorrect data for customer: username, password
+2022-04-20 15:55:09,346:main:56744:156276:INFO:User token is incorrect.
+2022-04-20 16:10:20,317:main:56744:54296:INFO:User token is incorrect.
+2022-04-20 16:11:19,234:db_repo:40544:65728:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 16:11:19,239:db_repo:40544:65728:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 16:11:19,244:db_repo:40544:65728:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 16:11:19,249:db_repo:40544:65728:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 16:11:19,249:refresh_db:40544:65728:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 16:12:19,772:db_repo:40544:9572:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:12:41,673:db_repo:40544:73400:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:14:08,193:rest_api:37400:37372:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 16:26:18,431:rest_api:89396:85688:INFO:A user tried to used a function that requires token but token is missing.
+2022-04-20 16:49:30,839:db_repo:176100:175352:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 16:49:30,844:db_repo:176100:175352:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 16:49:30,849:db_repo:176100:175352:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 16:49:30,852:db_repo:176100:175352:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 16:49:30,853:refresh_db:176100:175352:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 16:49:39,786:db_repo:176100:177532:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:51:39,871:db_repo:181800:179964:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 16:51:39,876:db_repo:181800:179964:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 16:51:39,881:db_repo:181800:179964:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 16:51:39,885:db_repo:181800:179964:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 16:51:39,886:refresh_db:181800:179964:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 16:51:49,786:db_repo:181800:178356:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:54:09,736:db_repo:181800:190128:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:55:20,471:db_repo:179640:180860:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 16:55:20,475:db_repo:179640:180860:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 16:55:20,478:db_repo:179640:180860:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 16:55:20,484:db_repo:179640:180860:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 16:55:20,484:refresh_db:179640:180860:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 16:55:28,710:db_repo:179640:58404:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:55:33,658:db_repo:179640:15652:INFO:The function <<get_customers_by_id>> successfully completed. ID: 1
+2022-04-20 16:55:41,049:db_repo:179640:38408:INFO:The function <<get_customers_by_id>> successfully completed. ID: 5
+2022-04-20 16:55:47,776:db_repo:179640:69456:INFO:The function <<get_customers_by_id>> successfully completed. ID: 2
+2022-04-20 16:57:10,515:db_repo:179640:41848:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:57:15,547:db_repo:179640:74464:INFO:The function <<get_customers_by_id>> successfully completed. ID: 1
+2022-04-20 16:57:35,534:db_repo:179640:70144:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 16:58:33,773:db_repo:179640:41808:INFO:The function <<get_customers_by_id>> successfully completed. ID: 2
+2022-04-20 17:01:51,480:db_repo:171756:17948:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 17:01:51,483:db_repo:171756:17948:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 17:01:51,486:db_repo:171756:17948:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 17:01:51,489:db_repo:171756:17948:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 17:01:51,489:refresh_db:171756:17948:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 17:02:09,587:main:171756:77840:INFO:User token is incorrect.
+2022-04-20 17:02:37,358:main:171756:19612:INFO:User token is incorrect.
+2022-04-20 17:02:47,503:main:171756:9572:INFO:User token is incorrect.
+2022-04-20 17:04:51,353:main:171756:172872:INFO:User token is incorrect.
+2022-04-20 17:09:06,243:main:171756:46392:INFO:User token is incorrect.
+2022-04-20 17:25:20,331:db_repo:86848:34428:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 17:25:20,336:db_repo:86848:34428:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 17:25:20,340:db_repo:86848:34428:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 17:25:20,345:db_repo:86848:34428:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 17:25:20,345:refresh_db:86848:34428:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 17:25:55,759:main:86848:2552:INFO:User token is incorrect.
+2022-04-20 17:26:29,038:main:86848:105604:INFO:User token is incorrect.
+2022-04-20 17:26:56,471:main:86848:90556:INFO:Incorrect data for customer: username, password
+2022-04-20 17:27:15,895:db_repo:86848:110852:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 17:27:35,173:main:86848:107628:INFO:User token is incorrect.
+2022-04-20 17:27:41,975:main:86848:24756:INFO:User token is incorrect.
+2022-04-20 18:20:54,366:main:86848:36496:INFO:Incorrect data for customer: username, password
+2022-04-20 18:21:16,003:db_repo:86848:185500:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:21:35,307:db_repo:86848:100156:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:21:42,257:main:86848:149108:INFO:Incorrect data for customer: username, password
+2022-04-20 18:21:55,960:main:86848:188168:INFO:Incorrect data for customer: username, password
+2022-04-20 18:21:57,739:main:86848:186064:INFO:Incorrect data for customer: username, password
+2022-04-20 18:21:58,644:main:86848:111908:INFO:Incorrect data for customer: username, password
+2022-04-20 18:23:44,208:main:86848:184192:INFO:Incorrect data for customer: username, password
+2022-04-20 18:24:12,420:db_repo:86848:91552:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:24:34,321:db_repo:183184:30164:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:24:34,324:db_repo:183184:30164:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:24:34,328:db_repo:183184:30164:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:24:34,332:db_repo:183184:30164:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:24:34,332:refresh_db:183184:30164:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:24:44,760:db_repo:183184:78936:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:25:01,102:main:183184:68612:INFO:Incorrect data for customer: username, password
+2022-04-20 18:27:57,010:main:183184:30812:INFO:Incorrect data for customer: username, password
+2022-04-20 18:27:59,665:main:183184:42428:INFO:Incorrect data for customer: username, password
+2022-04-20 18:28:50,433:main:183184:58516:INFO:Incorrect data for customer: username, password
+2022-04-20 18:29:00,066:db_repo:43000:42552:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:29:00,072:db_repo:43000:42552:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:29:00,076:db_repo:43000:42552:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:29:00,081:db_repo:43000:42552:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:29:00,082:refresh_db:43000:42552:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:29:04,799:db_repo:43000:67296:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:29:04,799:main:43000:67296:WARNING:Customer username not verified
+2022-04-20 18:30:15,096:db_repo:59096:62736:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:30:15,099:db_repo:59096:62736:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:30:15,103:db_repo:59096:62736:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:30:15,106:db_repo:59096:62736:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:30:15,106:refresh_db:59096:62736:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:32:22,736:db_repo:38744:181104:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:32:22,741:db_repo:38744:181104:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:32:22,747:db_repo:38744:181104:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:32:22,751:db_repo:38744:181104:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:32:22,751:refresh_db:38744:181104:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:32:44,102:db_repo:37860:30360:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:32:44,106:db_repo:37860:30360:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:32:44,110:db_repo:37860:30360:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:32:44,115:db_repo:37860:30360:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:32:44,115:refresh_db:37860:30360:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:32:52,911:main:37860:151544:INFO:A user tried to login without sending the required data(username, password)
+2022-04-20 18:38:25,279:db_repo:37860:56140:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:40:26,277:db_repo:37860:189032:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:40:50,142:db_repo:82320:25848:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:40:50,146:db_repo:82320:25848:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:40:50,150:db_repo:82320:25848:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:40:50,155:db_repo:82320:25848:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:40:50,155:refresh_db:82320:25848:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:41:10,533:db_repo:82320:75820:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:42:43,599:db_repo:60072:164572:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:42:43,603:db_repo:60072:164572:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:42:43,607:db_repo:60072:164572:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:42:43,611:db_repo:60072:164572:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:42:43,611:refresh_db:60072:164572:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:44:06,371:db_repo:167260:189692:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:44:06,375:db_repo:167260:189692:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:44:06,379:db_repo:167260:189692:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:44:06,382:db_repo:167260:189692:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:44:06,382:refresh_db:167260:189692:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:44:58,623:main:167260:77200:INFO:User token is incorrect.
+2022-04-20 18:45:24,802:main:167260:46912:INFO:User token is incorrect.
+2022-04-20 18:57:24,774:db_repo:82036:108268:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 18:57:24,780:db_repo:82036:108268:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 18:57:24,783:db_repo:82036:108268:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 18:57:24,787:db_repo:82036:108268:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 18:57:24,787:refresh_db:82036:108268:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 18:57:37,660:db_repo:82036:86608:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:58:31,443:db_repo:82036:94444:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 18:58:33,628:db_repo:82036:76520:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 19:04:10,140:db_repo:177608:112868:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:04:10,143:db_repo:177608:112868:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:04:10,146:db_repo:177608:112868:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:04:10,149:db_repo:177608:112868:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:04:10,149:refresh_db:177608:112868:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:04:15,874:db_repo:177608:91940:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 19:11:33,573:db_repo:177608:119616:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 19:11:47,159:db_repo:118772:116772:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:11:47,165:db_repo:118772:116772:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:11:47,172:db_repo:118772:116772:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:11:47,177:db_repo:118772:116772:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:11:47,178:refresh_db:118772:116772:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:12:04,393:db_repo:34112:123704:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:12:04,400:db_repo:34112:123704:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:12:04,405:db_repo:34112:123704:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:12:04,410:db_repo:34112:123704:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:12:04,410:refresh_db:34112:123704:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:14:48,366:db_repo:130284:128876:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:14:48,371:db_repo:130284:128876:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:14:48,376:db_repo:130284:128876:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:14:48,382:db_repo:130284:128876:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:14:48,382:refresh_db:130284:128876:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:14:56,273:db_repo:130284:131156:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 19:14:58,835:db_repo:130284:126192:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 19:16:17,297:db_repo:130212:122312:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:16:17,301:db_repo:130212:122312:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:16:17,305:db_repo:130212:122312:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:16:17,308:db_repo:130212:122312:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:16:17,309:refresh_db:130212:122312:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:16:52,208:db_repo:130212:134700:INFO:The function <<get_customers_by_username>> failed. Username: None
+2022-04-20 19:17:17,333:main:130212:134504:INFO:User token is incorrect.
+2022-04-20 19:17:28,917:main:130212:52712:INFO:User token is incorrect.
+2022-04-20 19:17:34,991:main:130212:26696:INFO:User token is incorrect.
+2022-04-20 19:17:36,830:main:130212:118992:INFO:User token is incorrect.
+2022-04-20 19:17:55,804:main:130212:123916:INFO:User token is incorrect.
+2022-04-20 19:18:17,320:main:130212:134728:INFO:User token is incorrect.
+2022-04-20 19:18:46,840:main:130212:136984:INFO:User token is incorrect.
+2022-04-20 19:19:08,913:db_repo:137756:139100:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:19:08,918:db_repo:137756:139100:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:19:08,922:db_repo:137756:139100:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:19:08,927:db_repo:137756:139100:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:19:08,927:refresh_db:137756:139100:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:19:20,205:db_repo:137756:133512:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 19:19:22,615:db_repo:137756:113192:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 19:19:56,881:db_repo:137756:184424:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 19:20:05,856:db_repo:137756:134680:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 19:20:52,347:db_repo:137756:57184:INFO:The function <<get_all_customers>> successfully completed
+2022-04-20 19:21:43,648:main:137756:141704:INFO:User token is incorrect.
+2022-04-20 19:24:14,375:db_repo:137756:103676:INFO:The function <<get_customers_by_username>> failed. Username: Test
+2022-04-20 19:30:48,533:db_repo:140556:42032:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-20 19:30:48,537:db_repo:140556:42032:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-20 19:30:48,540:db_repo:140556:42032:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-20 19:30:48,545:db_repo:140556:42032:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-20 19:30:48,545:refresh_db:140556:42032:CRITICAL:The data base  has been successfully refreshed
+2022-04-20 19:30:51,893:db_repo:140556:159204:INFO:The function <<get_customers_by_username>> failed. Username: Test
+2022-04-21 18:13:39,180:db_repo:129220:127964:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-21 18:13:39,186:db_repo:129220:127964:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-21 18:13:39,191:db_repo:129220:127964:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-21 18:13:39,195:db_repo:129220:127964:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-21 18:13:39,195:refresh_db:129220:127964:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 18:13:57,438:db_repo:129220:122368:INFO:The function <<get_customers_by_username>> failed. Username: Test
+2022-04-21 18:14:59,933:main:129220:129092:INFO:User token is incorrect.
+2022-04-21 18:25:20,913:db_repo:147192:147400:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-21 18:25:20,917:db_repo:147192:147400:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-21 18:25:20,920:db_repo:147192:147400:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-21 18:25:20,925:db_repo:147192:147400:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-21 18:25:20,925:refresh_db:147192:147400:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 18:28:48,845:db_repo:75740:158660:INFO:The new customer Customer id: 1, 
+                username: mark100, 
+                password: 123456, 
+                email: mark100@mail.com,
+                address: Ashdod has been added to the database
+2022-04-21 18:28:48,849:db_repo:75740:158660:INFO:The new customer Customer id: 2, 
+                username: alon200, 
+                password: 234567, 
+                email: alon200@mail.com,
+                address: Holon has been added to the database
+2022-04-21 18:28:48,854:db_repo:75740:158660:INFO:The new customer Customer id: 3, 
+                username: alex300, 
+                password: 345678, 
+                email: alex300@mail.com,
+                address: Tel-Aviv has been added to the database
+2022-04-21 18:28:48,858:db_repo:75740:158660:INFO:The new customer Customer id: 4, 
+                username: eyal400, 
+                password: 456789, 
+                email: eyal400@mail.com,
+                address: Haifa has been added to the database
+2022-04-21 18:28:48,858:refresh_db:75740:158660:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 18:34:53,648:refresh_db:155116:123908:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 18:35:57,904:db_repo:155116:173792:INFO:The new customer Customer id: 1, 
+                username: test, 
+                password: pbkdf2:sha256:260000$4GN23xdAgDiIonkX$fb44ab0588300ccb3adae65aff9c0ae1e03f303ebb0b7fdc84d5bf7fa04aff2f, 
+                email: qwert,
+                address: Test has been added to the database
+2022-04-21 18:35:57,904:main:155116:173792:INFO:New customer: Customer id: 1, 
+                username: test, 
+                password: pbkdf2:sha256:260000$4GN23xdAgDiIonkX$fb44ab0588300ccb3adae65aff9c0ae1e03f303ebb0b7fdc84d5bf7fa04aff2f, 
+                email: qwert,
+                address: Test has been created
+2022-04-21 18:46:43,223:db_repo:155116:43440:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-21 18:48:46,580:db_repo:155116:79768:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-21 18:50:37,759:db_repo:155116:35700:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-21 18:56:54,475:refresh_db:14484:152900:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 18:58:22,726:db_repo:14484:144028:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 18:58:22,726:main:14484:144028:WARNING:Customer username not verified
+2022-04-21 18:58:49,894:db_repo:14484:80628:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 18:58:49,894:main:14484:80628:WARNING:Customer username not verified
+2022-04-21 18:58:52,290:db_repo:14484:5672:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 18:58:52,290:main:14484:5672:WARNING:Customer username not verified
+2022-04-21 18:58:55,051:db_repo:14484:52892:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 18:58:55,052:main:14484:52892:WARNING:Customer username not verified
+2022-04-21 21:55:19,232:refresh_db:176144:1660:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 21:56:52,193:refresh_db:77024:69084:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 21:56:59,210:db_repo:77024:36284:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 21:56:59,210:main:77024:36284:WARNING:Customer username not verified
+2022-04-21 21:58:08,525:refresh_db:99588:185408:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 21:58:12,098:db_repo:99588:111948:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 22:03:48,318:db_repo:99588:98236:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 22:04:16,039:refresh_db:94060:96324:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 22:04:21,835:db_repo:94060:57156:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 22:13:14,958:refresh_db:60736:168428:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 22:13:25,879:db_repo:60736:22644:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-21 22:15:09,119:refresh_db:126332:115352:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 22:19:10,546:refresh_db:72680:64904:CRITICAL:The data base  has been successfully refreshed
+2022-04-21 22:19:18,791:db_repo:72680:97892:INFO:The new customer Customer id: 1, 
+                username: test, 
+                password: pbkdf2:sha256:260000$vxQbrAfXQPIoooIQ$e2ae6d11a0ca86215b9b2dc90d7b3e1dde091eee7df2f1e6e336c6efd13d2031, 
+                email: qwert,
+                address: Test has been added to the database
+2022-04-21 22:19:18,792:main:72680:97892:INFO:New customer: Customer id: 1, 
+                username: test, 
+                password: pbkdf2:sha256:260000$vxQbrAfXQPIoooIQ$e2ae6d11a0ca86215b9b2dc90d7b3e1dde091eee7df2f1e6e336c6efd13d2031, 
+                email: qwert,
+                address: Test has been created
+2022-04-21 22:20:09,916:main:72680:100140:INFO:User token is incorrect.
+2022-04-21 22:24:57,307:db_repo:72680:1976:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-21 22:24:59,791:db_repo:72680:88556:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-21 22:27:51,698:db_repo:72680:91376:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-22 11:45:03,687:refresh_db:20336:180000:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 11:46:50,090:db_repo:20336:183448:INFO:The new customer Customer id: 1, 
+                username: test, 
+                password: pbkdf2:sha256:260000$WCl90TpqY7DpJiOq$c048d6616c1e4284baf4788092be406f48a71075a9bef0da0d7525c092f22216, 
+                email: qwert,
+                address: Test has been added to the database
+2022-04-22 11:46:50,090:main:20336:183448:INFO:New customer: Customer id: 1, 
+                username: test, 
+                password: pbkdf2:sha256:260000$WCl90TpqY7DpJiOq$c048d6616c1e4284baf4788092be406f48a71075a9bef0da0d7525c092f22216, 
+                email: qwert,
+                address: Test has been created
+2022-04-22 11:49:29,605:db_repo:20336:97176:INFO:The function <<get_customers_by_username>> successfully completed. Username: test
+2022-04-22 11:59:08,573:refresh_db:39736:65356:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 11:59:14,269:db_repo:39736:94172:INFO:The function <<get_customers_by_username>> failed. Username: test
+2022-04-22 11:59:14,269:main:39736:94172:WARNING:Customer username not verified
+2022-04-22 12:01:15,247:db_repo:39736:179244:INFO:The new customer Customer id: 1, 
+                username: Test, 
+                password: pbkdf2:sha256:260000$2bAb0ObZ2WFFkSrC$7982ba3884c1666a556336e9acf78fa871bb3a80a1ee6208bf3c7030c060e7c2, 
+                email: test,
+                address: test has been added to the database
+2022-04-22 12:01:15,247:main:39736:179244:INFO:New customer: Customer id: 1, 
+                username: Test, 
+                password: pbkdf2:sha256:260000$2bAb0ObZ2WFFkSrC$7982ba3884c1666a556336e9acf78fa871bb3a80a1ee6208bf3c7030c060e7c2, 
+                email: test,
+                address: test has been created
+2022-04-22 12:02:29,046:db_repo:39736:73948:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 12:03:51,525:db_repo:39736:106048:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 12:05:55,361:db_repo:99604:58544:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 12:06:17,644:db_repo:99604:171204:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 12:06:46,373:main:99604:43216:INFO:User token is incorrect.
+2022-04-22 12:07:09,515:main:99604:66760:INFO:User token is incorrect.
+2022-04-22 12:51:41,911:refresh_db:112604:43076:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 12:53:05,058:refresh_db:188628:185480:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 12:53:32,857:refresh_db:131852:65204:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 12:55:01,842:refresh_db:31636:78028:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 12:57:30,755:refresh_db:182836:112592:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 12:58:48,047:main:99604:107308:INFO:User token is incorrect.
+2022-04-22 12:58:54,303:main:99604:66144:INFO:User token is incorrect.
+2022-04-22 13:01:44,809:refresh_db:85600:43484:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 13:03:26,760:refresh_db:8804:103732:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 13:24:21,517:refresh_db:116184:126728:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 13:26:41,896:refresh_db:139320:152264:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 13:26:48,307:db_repo:139320:151536:INFO:The new customer Customer id: 1, 
+                username: Test, 
+                password: pbkdf2:sha256:260000$GlRBvV6EN3SuaYPj$e3a60bfe163f56377f73dd5aa062f8dfa759163844457f1a1944672fa7032f84, 
+                email: test,
+                address: test has been added to the database
+2022-04-22 13:26:48,308:main:139320:151536:INFO:New customer: Customer id: 1, 
+                username: Test, 
+                password: pbkdf2:sha256:260000$GlRBvV6EN3SuaYPj$e3a60bfe163f56377f73dd5aa062f8dfa759163844457f1a1944672fa7032f84, 
+                email: test,
+                address: test has been created
+2022-04-22 13:27:06,841:db_repo:139320:145376:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 13:30:32,348:db_repo:139320:91804:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 13:33:10,823:refresh_db:171972:157836:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 13:33:15,106:db_repo:171972:152496:INFO:The function <<get_customers_by_username>> failed. Username: Test
+2022-04-22 13:33:15,106:main:171972:152496:WARNING:Customer username not verified
+2022-04-22 13:33:48,380:db_repo:171972:153680:INFO:The new customer Customer id: 1, 
+                username: Test, 
+                password: pbkdf2:sha256:260000$8fWS5k8OdpmZzly1$ecbb15a0b7651d73dc9ae61e3db8f9ac76ab9c898e677237e6efa03b0969440b, 
+                email: test,
+                address: test has been added to the database
+2022-04-22 13:33:48,380:main:171972:153680:INFO:New customer: Customer id: 1, 
+                username: Test, 
+                password: pbkdf2:sha256:260000$8fWS5k8OdpmZzly1$ecbb15a0b7651d73dc9ae61e3db8f9ac76ab9c898e677237e6efa03b0969440b, 
+                email: test,
+                address: test has been created
+2022-04-22 13:34:06,077:db_repo:171972:153792:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 13:38:46,263:main:171972:150140:INFO:User token is incorrect.
+2022-04-22 13:39:36,380:main:171972:187788:INFO:User token is incorrect.
+2022-04-22 13:39:41,636:main:171972:159524:INFO:User token is incorrect.
+2022-04-22 13:39:43,972:main:171972:190724:INFO:User token is incorrect.
+2022-04-22 13:39:44,881:main:171972:184120:INFO:User token is incorrect.
+2022-04-22 13:39:45,597:main:171972:188476:INFO:User token is incorrect.
+2022-04-22 13:41:03,639:db_repo:171972:8740:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test
+2022-04-22 13:41:33,369:main:171972:157468:WARNING:User token is invalid.
+2022-04-22 13:41:35,204:main:171972:189972:WARNING:User token is invalid.
+2022-04-22 13:46:27,905:db_repo:171972:54080:INFO:The new customer Customer id: 2, 
+                username: Test1, 
+                password: pbkdf2:sha256:260000$FLwtzVAdgpiihtLl$104a22b11a60347c56c16d47a594c067dbe9c08f8accf620bdec411aaa943418, 
+                email: test1,
+                address: test1 has been added to the database
+2022-04-22 13:46:27,905:main:171972:54080:INFO:New customer: Customer id: 2, 
+                username: Test1, 
+                password: pbkdf2:sha256:260000$FLwtzVAdgpiihtLl$104a22b11a60347c56c16d47a594c067dbe9c08f8accf620bdec411aaa943418, 
+                email: test1,
+                address: test1 has been created
+2022-04-22 13:48:49,631:refresh_db:51212:79644:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 13:48:55,440:db_repo:51212:174068:INFO:The new customer Customer id: 1, 
+                username: Test2, 
+                password: pbkdf2:sha256:260000$DwI56c2OkBTVgsAN$7e3a1e70a4a679eda93524236f1904b952af6b21b3d35226079d7a9efae57cd7, 
+                email: test2,
+                address: test2 has been added to the database
+2022-04-22 13:48:55,440:main:51212:174068:INFO:New customer: Customer id: 1, 
+                username: Test2, 
+                password: pbkdf2:sha256:260000$DwI56c2OkBTVgsAN$7e3a1e70a4a679eda93524236f1904b952af6b21b3d35226079d7a9efae57cd7, 
+                email: test2,
+                address: test2 has been created
+2022-04-22 13:50:34,637:main:51212:73932:INFO:Incorrect data for customer: username, password
+2022-04-22 13:51:39,970:db_repo:51212:77588:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test2
+2022-04-22 13:55:14,406:main:51212:36416:WARNING:User token is invalid.
+2022-04-22 13:55:37,943:main:51212:186844:WARNING:User token is invalid.
+2022-04-22 13:57:35,146:main:51212:15204:WARNING:User token is invalid.
+2022-04-22 13:57:37,288:main:51212:43692:WARNING:User token is invalid.
+2022-04-22 13:58:03,288:main:51212:176716:WARNING:User token is invalid.
+2022-04-22 14:06:13,140:main:51212:107504:WARNING:User token is invalid.
+2022-04-22 14:06:29,545:main:51212:9232:WARNING:User token is invalid.
+2022-04-22 14:06:41,777:main:51212:175404:WARNING:User token is invalid.
+2022-04-22 14:07:55,208:db_repo:51212:60056:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test2
+2022-04-22 14:08:45,969:main:51212:87928:WARNING:User token is invalid.
+2022-04-22 14:09:43,109:main:51212:113688:WARNING:User token is invalid.
+2022-04-22 14:10:27,217:db_repo:51212:101784:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test2
+2022-04-22 14:11:08,227:main:51212:37108:WARNING:User token is invalid.
+2022-04-22 14:11:10,234:main:51212:71724:WARNING:User token is invalid.
+2022-04-22 14:11:42,785:main:51212:109780:WARNING:User token is invalid.
+2022-04-22 14:13:14,184:main:51212:72568:WARNING:User token is invalid.
+2022-04-22 14:14:17,778:main:51212:109192:WARNING:User token is invalid.
+2022-04-22 14:14:18,838:main:51212:90216:WARNING:User token is invalid.
+2022-04-22 14:14:44,872:db_repo:110992:44920:INFO:The function <<get_all_customers>> successfully completed
+2022-04-22 14:15:53,930:db_repo:110992:39844:INFO:The function <<get_all_customers>> successfully completed
+2022-04-22 14:16:04,277:db_repo:110992:98744:INFO:The function <<get_all_customers>> successfully completed
+2022-04-22 14:16:20,418:main:110992:113384:WARNING:User token is invalid.
+2022-04-22 14:16:37,696:main:110992:65816:WARNING:User token is invalid.
+2022-04-22 14:16:38,934:main:110992:41180:WARNING:User token is invalid.
+2022-04-22 14:16:51,148:db_repo:117040:53500:INFO:The function <<get_customers_by_id>> successfully completed. ID: 1
+2022-04-22 14:17:34,941:db_repo:117040:117260:INFO:The function <<get_customers_by_id>> successfully completed. ID: 1
+2022-04-22 14:22:25,554:db_repo:28944:173456:INFO:The function <<get_customers_by_username>> failed. Username: Test4
+2022-04-22 14:22:25,555:main:28944:173456:WARNING:Customer username not verified
+2022-04-22 14:25:06,802:db_repo:28944:134992:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test2
+2022-04-22 14:25:55,541:db_repo:28944:119572:INFO:The function <<get_all_customers>> successfully completed
+2022-04-22 14:26:03,799:db_repo:28944:52164:INFO:The function <<get_all_customers>> successfully completed
+2022-04-22 14:37:52,957:refresh_db:56088:25488:CRITICAL:The data base  has been successfully refreshed
+2022-04-22 14:38:00,079:db_repo:56088:166748:INFO:The new customer Customer id: 1, 
+                username: Test2, 
+                password: pbkdf2:sha256:260000$bwXPfyQ5p5KHGQoj$171b0f96adefd49f8f93fa64e98101a1c73ab568912f10d160a06694de66a042, 
+                email: test4,
+                address: test4 has been added to the database
+2022-04-22 14:38:00,080:main:56088:166748:INFO:New customer: Customer id: 1, 
+                username: Test2, 
+                password: pbkdf2:sha256:260000$bwXPfyQ5p5KHGQoj$171b0f96adefd49f8f93fa64e98101a1c73ab568912f10d160a06694de66a042, 
+                email: test4,
+                address: test4 has been created
+2022-04-22 14:43:56,456:db_repo:596:172392:INFO:The function <<get_customers_by_username>> successfully completed. Username: Test2
+2022-04-22 14:43:56,456:main:596:172392:ERROR:Username already exists
+2022-04-22 14:51:21,345:refresh_db:68092:68528:CRITICAL:The data base  has been successfully refreshed
